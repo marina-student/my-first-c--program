@@ -10,7 +10,7 @@ namespace CSarpTutorials
      {
          static void Main(string[] args)
 
-string message= "Hallo World!";
+string message= "Hallo World! Thi is me!!";
 
 Console.Writeline(message);
 }
