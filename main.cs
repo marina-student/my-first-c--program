@@ -13,6 +13,11 @@ namespace CSarpTutorials
 string message= "Hallo World! Thi is me!!";
 
 Console.Writeline(message);
+
+          for(int i=0;<10; i++)
+          {
+               Console.Writeline("Value of i: {0}", i);
+          }
 }
 }
 }
